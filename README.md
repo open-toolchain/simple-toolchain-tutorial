@@ -1,4 +1,4 @@
-#Simple toolchain
+#Simple toolchain - tutorial
 
 This Hello World application uses Node.js and includes a DevOps toolchain that is preconfigured for continuous delivery, source control, and issue tracking.
 
